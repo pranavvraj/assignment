@@ -1,2 +1,7 @@
 sample1
+<<<<<<< HEAD
 branch1
+=======
+branch1
+branch2
+>>>>>>> D-BRANCH
